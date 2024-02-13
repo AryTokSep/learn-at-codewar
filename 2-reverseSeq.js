@@ -1,4 +1,4 @@
-// reverse sequence
+// reversed sequence
 
 const reverseSeq = (n) => {
     const result = [];
